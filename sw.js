@@ -14,6 +14,9 @@
         'index.html',
         'style.css',
         'script.js',
+        'pexels-cottonbro-6289768.jpg',
+        'pexels-cottonbro-6557085.jpg',
+        'pexels-graficdasign-914996.jpg',
         // Add paths to all your assets, images, etc.
     ];
 
